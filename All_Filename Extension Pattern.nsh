@@ -4,8 +4,6 @@
 #
 # Search Script on the Server
 #
-# BMC Software, Inc.
-#
 ###############################################################################
 #
 # This script collects the script information data from the managed servers
